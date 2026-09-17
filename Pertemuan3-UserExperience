@@ -1,0 +1,111 @@
+Berikut adalah rancangan lengkap Materi Pembelajaran, Panduan Praktikum, dan Draf Berkas GitHub untuk Pertemuan 3 yang siap Anda gunakan di kelas maupun diunggah ke repositori GitHub Anda.
+
+📄 Bagian 1: Ringkasan Modul Ajar (Untuk Pengajar/LMS)
+Mata Kuliah: Pemasaran Digital berbasis AI
+
+Pertemuan: 3
+
+Topik: Website, Landing Page & User Experience (UX)
+
+Acuan Pustaka: Chaffey & Ellis-Chadwick (2019) – Digital Media Channels & User Experience; Kingsnorth (2022) – User Experience (UX), Website Architecture & Conversion Rate Optimization.
+
+Estimasi Waktu: 3 x 50 menit (Luring/Daring)
+
+📚 Bagian 2: Rangkuman Teori Singkat (Bahan Kuliah)
+1. Perbedaan Utama Website vs. Landing Page
+Website: Situs utama yang berfungsi sebagai brosur digital komprehensif dengan banyak navigasi (Home, About Us, Services, Blog, Contact). Fokus utamanya adalah brand awareness dan eksplorasi informasi.
+
+Landing Page: Halaman khusus yang dirancang dengan satu tujuan konversi tunggal (misal: pendaftaran webinar, pengunduhan e-book, atau pembelian produk promo). Mengurangi gangguan navigasi agar visitor fokus melakukan tindakan tertentu.
+
+2. Anatomi Landing Page Berkonversi Tinggi
+Headline & Sub-headline: Pernyataan nilai utama (value proposition) yang menarik perhatian dalam 3–5 detik pertama.
+
+Hero Image/Video: Visual berkualitas tinggi yang merepresentasikan manfaat produk/layanan.
+
+Social Proof: Ulasan, testimoni, rating, logo klien, atau sertifikasi untuk membangun kepercayaan (trust).
+
+Call-to-Action (CTA): Tombol aksi yang jelas, kontras, dan persuasif (misal: "Dapatkan Diskon 50% Sekarang", "Daftar Gratis").
+
+Clear Benefit Points: Daftar keunggulan produk menggunakan bullet points agar mudah dibaca (scannable).
+
+3. User Experience (UX) & Conversational AI
+UX Principles: Halaman harus cepat diakses (fast loading), ramah perangkat seluler (mobile-responsive), serta memiliki hierarki visual yang jelas.
+
+Conversational UX: Mengintegrasikan Chatbot AI ber-NLP pada landing page untuk merespons pertanyaan calon konsumen 24/7 dan mengarahkan mereka langsung ke proses konversi.
+
+🛠️ Bagian 3: Panduan Praktikum & Prompt Engineering
+Pada praktikum minggu ini, mahasiswa akan merancang struktur wireframe & copywriting Landing Page berbasis AI, serta membuat sampel visualnya menggunakan platform gratis.
+
+Langkah Kerja Mahasiswa:
+Penyusunan Teks/Structure dengan ChatGPT: Gunakan Prompt 1 di bawah ini untuk menghasilkan copywriting dan susunan elemen Landing Page.
+
+Generasi Wireframe/Layout Interaktif dengan AI:
+
+Buka platform Relume.io (relume.io) atau Framer AI (framer.com).
+
+Tempelkan prompt deskripsi produk untuk membuat draf layout landing page secara otomatis.
+
+Simulasi Integrasi Chatbot: Gunakan Prompt 2 untuk menyusun alur percakapan Conversational AI Chatbot pada landing page.
+
+🤖 Koleksi Prompt AI untuk Pertemuan 3
+Prompt 1: Merancang Anatomi & Copywriting Landing Page
+
+Kamu adalah seorang Conversion Rate Optimization (CRO) & Copywriting Specialist. 
+Buatkan draf struktur dan teks (copywriting) untuk sebuah Landing Page produk [Nama Produk/Brand, misal: Kursus Bahasa Inggris Online / Sepatu Lokal].
+
+Gunakan anatomi Landing Page berikut:
+1. Headline & Sub-headline (Persuasif dan menarik perhatian)
+2. Hero Section (Deskripsi visual & penawaran utama)
+3. Key Benefits (3-5 keunggulan produk dengan format poin)
+4. Social Proof (3 contoh testimoni pelanggan yang terlihat otentik)
+5. Call-to-Action / CTA (Teks tombol utama dan sekunder yang mendorong konversi)
+6. FAQ Section (3 pertanyaan yang paling sering ditanyakan beserta jawabannya)
+
+Prompt 2: Merancang Alur Conversational AI / Chatbot UX
+
+Kamu adalah seorang UX Designer khusus Conversational AI. 
+Buatkan draf skrip otomatisasi Chatbot AI yang akan dipasang pada Landing Page produk [Nama Produk/Brand].
+
+Skrip harus mencakup:
+1. Pesan Menyapa (Greeting) yang ramah saat pengunjung pertama kali membuka halaman.
+2. 3 Pilihan Menu Cepat (Quick Reply Buttons) yang biasanya ditanyakan pengunjung (misal: Harga/Promo, Cara Pesan, Konsultasi Gratis).
+3. Respon otomatis jika pengunjung memilih salah satu menu tersebut hingga diarahkan ke tombol WhatsApp/Checkout.
+
+📝 Bagian 4: Draf Berkas Pertemuan3-LandingPage-UX.md untuk Repositori GitHub
+Anda dapat membuat berkas baru di repositori GitHub Anda dengan nama Pertemuan3-LandingPage-UX.md dan menempelkan draf di bawah ini:
+
+# 📂 Pertemuan 3: Website, Landing Page & User Experience (UX)
+
+Repositori ini berisi panduan materi dan modul praktikum untuk **Pertemuan 3** mata kuliah Pemasaran Digital berbasis AI.
+
+---
+
+## 🎯 Tujuan Pembelajaran
+1. Memahami perbedaan strategis antara Website utama dan *Landing Page*.
+2. Mempelajari anatomi *Landing Page* berkonversi tinggi dan prinsip dasar *User Experience* (UX).
+3. Merancang *copywriting* dan struktur *Landing Page* menggunakan *Generative AI* serta alat wireframing otomatis.
+
+---
+
+## 📌 Pokok Bahasan
+- **Kerangka Teori:** *User Experience (UX), Website Architecture & Conversion Rate Optimization* (Chaffey, 2019; Kingsnorth, 2022).
+- **Aktivitas Praktikum:**
+  1. Penyusunan anatomi dan *copywriting Landing Page* menggunakan ChatGPT/Claude.
+  2. Generasi layout visual/wireframe menggunakan **Framer AI** atau **Relume.io**.
+  3. Perancangan skrip *Conversational AI Chatbot* untuk mendukung konversi.
+
+---
+
+## 🤖 Koleksi Prompt AI Pertemuan 3
+
+### Prompt A: Copywriting & Anatomi Landing Page
+> "Kamu adalah seorang CRO & Copywriting Specialist. Buatkan draf struktur dan teks Landing Page untuk [Nama Produk] yang mencakup Headline, Key Benefits, Social Proof, FAQ, dan Call-to-Action (CTA) berkonversi tinggi."
+
+### Prompt B: Skrip Conversational AI / Chatbot
+> "Kamu adalah UX Designer Conversational AI. Buatkan draf alur chat otomatis untuk Chatbot pada Landing Page [Nama Produk], mencakup Greeting, Quick Reply Buttons, dan pengarahan ke link transaksi."
+
+---
+
+## 📤 Tugas & Output Minggu Ini
+- **Output:** Draf struktur *Landing Page* (file PDF/Link Framer/Relume) beserta skrip *Chatbot UX*.
+- **Penyetoran:** Unggah tautan atau dokumen ke LMS / Vinesa sesuai ketentuan.
