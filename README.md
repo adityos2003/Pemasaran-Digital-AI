@@ -1,20 +1,48 @@
-# Pemasaran Digital Berbasis AI — Pertemuan 1
+# 🚀 Pemasaran Digital Berbasis AI — Pertemuan 1
 
 Selamat datang di repositori resmi mata kuliah **Pemasaran Digital berbasis AI**. 
-Repositori ini berisi panduan, modul, dan koleksi prompt AI untuk pembelajaran Pertemuan 1.
-
-## 📌 Topik Pertemuan 1
-- **Materi:** Orientasi & Ekosistem Pemasaran Digital
-- **Kerangka Kerja:** RACE Framework & Predictive AI Marketing
-- **Tujuan:** Memahami pergeseran dari pemasaran tradisional ke era AI.
-
-## 🤖 Koleksi Prompt AI untuk Riset Pasar (Pertemuan 1)
-
-### 1. Prompt Analisis Ekosistem Produk
-> "Kamu adalah seorang konsultan Pemasaran Digital senior. Analisis ekosistem digital untuk produk [sebutkan produk/brand, misal: Kopi Lokal]. Petakan channels yang cocok untuk tahap Awareness, Consideration, dan Conversion menggunakan RACE Framework."
-
-### 2. Prompt Identifikasi Tren AI Marketing
-> "Berikan 5 contoh konkret bagaimana teknologi Generative AI dapat mengoptimalkan efisiensi kampanye pemasaran digital untuk UMKM bidang kuliner."
+Repositori ini berfungsi sebagai panduan instruksional, modul praktikum, dan pustaka *prompt AI* yang digunakan pada Pertemuan 1.
 
 ---
-*Gunakan repositori ini sebagai referensi utama selama perkuliahan.*
+
+## 📌 1. Topik & Pokok Bahasan Pertemuan 1
+- **Topik utama:** Orientasi Perkuliahan & Ekosistem Pemasaran Digital Berbasis AI.
+- **Kerangka Teori:** 
+  - **RACE Framework** (*Reach, Act, Convert, Engage*) oleh Dave Chaffey.
+  - **Technology Acceptance Model (TAM)** dalam adopsi teknologi AI Marketing.
+- **Tujuan Pembelajaran:** 
+  - Memahami pergeseran dari pemasaran tradisional ke era digital terintegrasi AI.
+  - Memetakan titik sentuh (*touchpoint*) konsumen secara terstruktur.
+
+---
+
+## 🤖 2. Koleksi Prompt AI untuk Praktikum (ChatGPT / Claude)
+
+Gunakan *prompt engineering* di bawah ini saat praktikum mandiri/kelompok. Caranya: *copy* teks dalam kotak quote, lalu ubah variabel dalam kurung siku `[...]` sesuai dengan topik produk/bisnis yang dianalisis.
+
+### 🎯 Prompt A: Analisis Ekosistem & RACE Framework
+> "Kamu adalah seorang Konsultan Pemasaran Digital Senior. Analisis ekosistem pemasaran digital untuk produk [sebutkan produk/brand, misal: Kopi Lokal / Fashion Hijab]. Petakan saluran digital yang cocok untuk tahap Reach (Awareness), Act (Consideration), Convert (Purchase), dan Engage (Loyalty) menggunakan RACE Framework."
+
+### 🔎 Prompt B: Identifikasi Tren & Efisiensi AI Marketing
+> "Kamu adalah seorang AI Marketing Strategist. Berikan 5 contoh konkret penerapan teknologi Generative AI (seperti pembuatan konten, otomatisasi, dan analitik) yang dapat menghemat biaya dan waktu operasional pemasaran untuk bisnis [sebutkan jenis UMKM/bisnis]."
+
+---
+
+## 🎥 3. Tautan Pembelajaran Asinkron (YouTube & Referensi)
+
+Untuk memperdalam pemahaman materi ekosistem digital, silakan pelajari video referensi berikut:
+
+1. **HubSpot Marketing:** *Understanding the Inbound Marketing Ecosystem*
+2. **Ahrefs:** *Digital Marketing for Beginners – How to Get Started*
+3. **Google Career Certificates:** *Foundations of Digital Marketing and E-commerce*
+
+---
+
+## 🛠️ 4. Panduan Penggunaan Repositori Bagi Mahasiswa
+
+1. **Penggunaan Prompt:** Salin *prompt* dari repositori ini, buka platform AI pilihan Anda (**ChatGPT** / **Claude**), dan jalankan analisis tugas kelompok.
+2. **Unduh File (Optional):** Jika terdapat berkas pendukung, klik tombol hijau **Code** di pojok kanan atas, lalu pilih **Download ZIP**.
+3. **Penyimpanan:** Klik tombol **Star ⭐️** di pojok kanan atas halaman GitHub ini untuk menyimpannya ke akun GitHub Anda.
+
+---
+*Dikembangkan untuk Mata Kuliah Pemasaran Digital Berbasis AI.*
