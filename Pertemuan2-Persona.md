@@ -1,8 +1,19 @@
+Minggu 2: 
+Digital Customer Journey & Persona
+
+Teori yang Dibahas:
+Konsep Customer Journey (Awareness -> Consideration -> Conversion -> Retention).
+Pemetaan titik sentuh (touchpoint) & titik masalah (pain points).
+Pembuatan Buyer Persona statis vs Predictive AI Persona.
+
+Praktik & Implementasi:
+Aktivitas: Mengolah data mentah ulasan konsumen (review Google/Shopee) menjadi profil target pasar.Eksplorasi Tool: Menggunakan HubSpot Make My Persona & Prompt Engineering (ChatGPT) untuk mengekstrak pola perilaku konsumen.Output: Dokumen visual Digital Customer Journey Map dan 2 profil Buyer Persona.
+
+
 📄 Bagian 1: Ringkasan Modul Ajar (Untuk Pengajar/LMS)
 Mata Kuliah: Pemasaran Digital berbasis AI
 
 Pertemuan: 2
-
 Topik: Digital Customer Journey & Persona
 
 Acuan Pustaka: Chaffey & Ellis-Chadwick (2019) – Customer Relationship Management & Journey Mapping; Kingsnorth (2022) – Customer Insights, Personas, and Personalisation.
