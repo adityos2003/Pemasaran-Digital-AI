@@ -1,0 +1,109 @@
+Berikut adalah rancangan lengkap Materi Pembelajaran, Panduan Praktikum, dan Draf Berkas GitHub untuk Pertemuan 4 yang siap digunakan di kelas maupun diunggah ke repositori GitHub.
+
+📄 Bagian 1: Ringkasan Modul Ajar (Untuk Pengajar/LMS)
+Mata Kuliah: Pemasaran Digital berbasis AI
+
+Pertemuan: 4
+
+Topik: Search Engine Optimization (SEO) & AI-Driven Content Strategy
+
+Acuan Pustaka: Chaffey & Ellis-Chadwick (2019) – Search Engine Marketing; Kingsnorth (2022) – Search Engine Optimization (SEO) & Content Strategy.
+
+Estimasi Waktu: 3 x 50 menit (Luring/Daring)
+
+📚 Bagian 2: Rangkuman Teori Singkat (Bahan Kuliah)
+1. Evolusi SEO: Tradisional vs. AI Search Era (GEO / SGE)
+SEO Tradisional: Berfokus pada pencocokan kata kunci (keyword matching), pautan masuk (backlinks), dan struktur teknis situs agar masuk di halaman utama Google.
+
+Generative Engine Optimization (GEO): Adaptasi SEO untuk mesin pencari berbasis AI (seperti Google Search Generative Experience / SGE, Perplexity, dan SearchGPT). Fokus bergeser ke pemenuhan maksud pencarian (search intent), relevansi konteks, kecerdasan entitas, serta pemenuhan standar E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness).
+
+2. Tiga Pilar Utama SEO
+On-Page SEO: Optimasi elemen di dalam halaman web, seperti Title Tag, Meta Description, Heading Tags (H1, H2, H3), struktur URL, alt teks gambar, dan kepadatan kata kunci secara alami.
+
+Off-Page SEO: Peningkatan reputasi domain luar situs melalui backlink berkualitas, sebutan merek (brand mentions), dan kehadiran digital yang terverifikasi.
+
+Technical SEO: Kecepatan muat halaman (page speed), keandalan pada tampilan seluler (mobile-friendliness), sitemap XML, serta indeksibilitas mesin pencari.
+
+3. Pemetaan Maksud Pencarian (Search Intent)
+Mahasiswa perlu membedakan empat jenis Search Intent:
+
+Informational: Pengguna mencari jawaban atau pengetahuan (misal: "apa itu RACE framework").
+
+Navigational: Pengguna mencari situs spesifik (misal: "login Canva").
+
+Commercial Investigation: Pengguna membandingkan opsi sebelum membeli (misal: "rekomendasi tools AI marketing terbaik").
+
+Transactional: Pengguna siap bertransaksi (misal: "harga lisensi Ahrefs").
+
+🛠️ Bagian 3: Panduan Praktikum & Prompt Engineering
+Pada praktikum minggu ini, mahasiswa akan melakukan riset keyword, menentukan Search Intent, serta membuat draf artikel blog/halaman SEO-friendly yang memenuhi standar kriteria E-E-A-T menggunakan AI.
+
+Langkah Kerja Mahasiswa:
+Riset kata kunci awal: Menggunakan platform gratis seperti Ahrefs Free Keyword Generator, Google Keyword Planner, atau AnswerThePublic untuk menemukan kata kunci utama dan long-tail keywords.
+
+Pengelompokan Intent & Pembuatan Outlining: Masukkan kata kunci ke ChatGPT/Claude menggunakan Prompt 1 untuk memetakan intent dan kerangka artikel.
+
+Generasi Konten SEO E-E-A-T: Eksekusi penulisan konten menggunakan Prompt 2 untuk menghasilkan draf artikel lengkap dengan Meta Data.
+
+🤖 Koleksi Prompt AI untuk Pertemuan 4
+Prompt 1: Riset Kata Kunci & Pemetaan Search Intent
+
+Kamu adalah seorang SEO Strategist Senior. 
+Saya memiliki bisnis/produk [Nama Produk/Niche, misal: Sepatu Lari Lokal]. 
+
+Tolong berikan riset kata kunci dan pemetaan konten dengan ketentuan:
+1. Kelompokkan 10 ide kata kunci ke dalam 4 kategori Search Intent: Informational, Navigational, Commercial, dan Transactional.
+2. Pilih 1 kata kunci jenis Informational dan 1 kata kunci jenis Commercial yang paling potensial.
+3. Buatkan struktur outline (H1, H2, H3) untuk artikel blog berdasarkan kata kunci Informational yang dipilih.
+
+Prompt 2: Pembuatan Artikel SEO-Friendly & Meta Tags (E-E-A-T Standard)
+
+Kamu adalah seorang SEO Content Writer berpengalaman. 
+Berdasarkan outline kata kunci [sebutkan kata kunci utama, misal: "cara memilih sepatu lari untuk pemula"], buatkan draf artikel blog dengan ketentuan berikut:
+
+1. Panjang artikel: 400–500 kata.
+2. Gaya bahasa: Edukatif, ramah, dan profesional.
+3. Struktur:
+   - Meta Title (Maksimal 60 karakter, memuat kata kunci utama).
+   - Meta Description (Maksimal 155 karakter, menarik dan ada Call-to-Action).
+   - URL Slug yang bersih dan ramah SEO.
+   - Isi Artikel: Gunakan Heading H1, H2, dan H3, serta terapkan standar E-E-A-T (sertakan contoh kasus nyata atau tips praktis dari pengalaman).
+
+📝 Bagian 4: Draf Berkas Pertemuan4-SEO-Content.md untuk Repositori GitHub
+Buat file baru di repositori GitHub Anda dengan nama Pertemuan4-SEO-Content.md dan tempelkan draf di bawah ini:
+
+# 📂 Pertemuan 4: Search Engine Optimization (SEO) & AI-Driven Content Strategy
+
+Repositori ini berisi panduan materi dan modul praktikum untuk **Pertemuan 4** mata kuliah Pemasaran Digital berbasis AI.
+
+---
+
+## 🎯 Tujuan Pembelajaran
+1. Memahami perbedaan antara SEO Tradisional dengan *Generative Engine Optimization* (GEO/SGE).
+2. Memetakan *Search Intent* konsumen (Informational, Navigational, Commercial, Transactional).
+3. Mengaplikasikan elemen *On-Page SEO* dan standar E-E-A-T dalam pembuatan konten menggunakan *Generative AI*.
+
+---
+
+## 📌 Pokok Bahasan
+- **Kerangka Teori:** *Search Engine Marketing & Content Strategy* (Chaffey, 2019; Kingsnorth, 2022).
+- **Aktivitas Praktikum:**
+  1. Riset kata kunci berbasis *tools* gratis (Ahrefs/Google Keyword Planner).
+  2. Pengelompokan *Search Intent* dan pemetaan struktur *Outline* konten.
+  3. Penyusunan artikel *SEO-friendly*, *Meta Title*, dan *Meta Description* berstandar E-E-A-T menggunakan ChatGPT/Claude.
+
+---
+
+## 🤖 Koleksi Prompt AI Pertemuan 4
+
+### Prompt A: Riset Kata Kunci & Search Intent
+> "Kamu adalah seorang SEO Strategist. Kelompokkan 10 ide kata kunci untuk produk [Nama Produk] berdasarkan 4 Search Intent dan buatkan outline artikel dari kata kunci paling potensial."
+
+### Prompt B: Penulisan Artikel & Meta Tags
+> "Kamu adalah SEO Content Writer. Buatkan draf artikel blog (400-500 kata) lengkap dengan Meta Title, Meta Description, URL Slug, dan heading H1-H3 yang memenuhi standar E-E-A-T untuk kata kunci [Kata Kunci Utama]."
+
+---
+
+## 📤 Tugas & Output Minggu Ini
+- **Output:** Berkas dokumen (PDF/Markdown) berisi **Tabel Analisis Search Intent** dan **1 Draf Artikel SEO-Friendly lengkap dengan Meta Tags**.
+- **Penyetoran:** Unggah dokumen ke LMS / Vinesa sesuai tenggat waktu yang ditentukan.
